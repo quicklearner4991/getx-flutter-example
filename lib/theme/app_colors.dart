@@ -1,0 +1,24 @@
+import 'package:flutter/material.dart';
+
+ Color exampleColor = Colors.white;
+ Color PLACE_HOLDER_COLOR =  const Color(0xff67778e);
+ Color TEXTFIELD_BACK_COLOR =  const Color(0xffeef4fd);
+ Color APP_PRIMARY_COLOR =  const Color(0xffff672e);
+ Color APP_GREEN_COLOR =  const Color(0xff8bc667);
+ Color APP_PRIMARY_DARK_COLOR =  const Color(0xffc74006);
+ Color DIVIDER_COLOR = const Color(0xffb9c3d2);
+ Color TEXT_COLOR_LIGHT_GREY = const Color(0xFF909090);
+ Color BLACK = const Color(0xFF000000);
+ Color BORDER_COLOR = const Color(0xFFDBDBDB);
+ Color WHITE = const Color(0xFFFFFFFF);
+ Color LIGHT_GREEN_BACK = const Color(0xFFF3FDFF);
+ Color DIVIDER_COLOR_LIGHT = const Color(0xFFE6E6E6);
+ Color BACKGROUND_SHADOW = const Color(0xFFF8F8F8);
+ Color DARK_TEXT_COLOR = const Color(0xFF383838);
+ Color AVATAR_BACKGROUND = const Color(0xFFEAEAEA);
+ Color TEXT_COLOR_GREEN = const Color(0xFF3B8594);
+ Color LIGHT_LIME_COLOR = const Color(0xFFDBEBEE);
+ Color GREY_BACKGROUND_FIELD = const Color(0xFFEFEFEF);
+ Color TEXT_COLOR_DARK = const Color(0xFF4A4A4A);
+ Color TEXT_LIGHT_BLACK = const Color(0xFF5B5B5B);
+ Color COMMON_BACKGROUNG = const Color(0xFFE5E5E5);
